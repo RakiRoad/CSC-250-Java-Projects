@@ -1,0 +1,2 @@
+This is a lab assignement for CSC-250
+This is to check if we can write some text to a file
